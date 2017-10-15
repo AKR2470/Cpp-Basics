@@ -4,6 +4,6 @@ This is a best place for begineers to start in open source.
 ## Start contributing: 
  * First fork this Repository.
  * Clone the forked Repo. 
- * In the Your "First Program" directory, create a file naming your username.cpp and push your first cpp program. 
+ * In the "Your First Program" directory, create a file naming your username.cpp and push your first cpp program. 
  * Create a pull request from your Github Account to get it merged. 
          
